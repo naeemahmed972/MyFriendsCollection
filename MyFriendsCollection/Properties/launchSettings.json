@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MyFriendsCollection (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MyFriendsCollection (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
